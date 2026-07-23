@@ -1,0 +1,4 @@
+*.exe
+*.png
+DSA/*.exe
+DSA/*.png
